@@ -1,0 +1,22 @@
+{
+  "name": "Velimir Paleksić Graphic Design",
+  "short_name": "VP Design",
+  "description": "Graphic design services for menus, promotional carousels, promo graphics, and static visuals.",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ],
+  "theme_color": "#0B0B0B",
+  "background_color": "#0B0B0B",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/"
+}
