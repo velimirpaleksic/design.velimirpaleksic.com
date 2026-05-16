@@ -3,9 +3,33 @@
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://design.velimirpaleksic.com/</loc>
-    <lastmod>2026-05-15</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <image:image>
       <image:loc>https://design.velimirpaleksic.com/og-image.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/milka-1-1080-F_NSyqoq.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/milka-1-640-EG5EXZMc.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/milka-2-1080-VZqYW-gD.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/milka-2-640-B3evliiB.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/milka-3-1080-DJhTczmb.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/milka-3-640-BZ5neJR2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/milka-4-1080-CMXlub3B.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/milka-4-640-N338jb0n.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://design.velimirpaleksic.com/assets/plazma-1-1080-D8Z1yhrX.webp</image:loc>
