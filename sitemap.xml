@@ -3,9 +3,18 @@
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://design.velimirpaleksic.com/</loc>
-    <lastmod>2026-05-16</lastmod>
+    <lastmod>2026-06-05</lastmod>
     <image:image>
       <image:loc>https://design.velimirpaleksic.com/og-image.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/Cedevita-BA6nHQpy.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/Domacin-BCyuQUvv.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/Jana-BxqYPJ4u.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://design.velimirpaleksic.com/assets/milka-1-1080-F_NSyqoq.webp</image:loc>
@@ -32,6 +41,15 @@
       <image:loc>https://design.velimirpaleksic.com/assets/milka-4-640-N338jb0n.webp</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/Milka-CymD4sre.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/Moja_Kravica-BMZvB3Qj.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/Pavle_Detailing-CVgoCLYY.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://design.velimirpaleksic.com/assets/plazma-1-1080-D8Z1yhrX.webp</image:loc>
     </image:image>
     <image:image>
@@ -56,10 +74,189 @@
       <image:loc>https://design.velimirpaleksic.com/assets/plazma-4-640-BLBVhaCq.webp</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/Plazma-Dv7zNeRx.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/Prima_Snacks-BiOeOhf0.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://design.velimirpaleksic.com/assets/profile-photo-480-CAONOE87.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://design.velimirpaleksic.com/assets/profile-photo-NaFglHtt.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/Rossen-DL_GY22o.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/Smoki-DbvHz_3U.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/cedevita/1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/jana-ice-tea/1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/jana-ice-tea/2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/jana-ice-tea/3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/milka/1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/milka/2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/milka/3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/milka/4.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/moja-kravica/1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/moja-kravica/2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/moja-kravica/3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/pavle-detailing/1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/pavle-detailing/2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/pavle-detailing/3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/plazma/1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/plazma/2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/plazma/3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/plazma/4.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/prima/1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/rossen-kozmetika/1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/rossen-kozmetika/2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/rossen-kozmetika/3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/rossen-kozmetika/4.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-concepts/smoki/1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/cedevita/1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/domacin/izaberi-svoj-ukus.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/domacin/mali-jabuka-mrkva-i-cvekla.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/domacin/mali-sokovi.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/jana-ice-tea/1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/jana-ice-tea/2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/jana-ice-tea/3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/milka/1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/milka/2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/milka/3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/milka/4.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/moja-kravica/1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/moja-kravica/2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/moja-kravica/3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/pavle-detailing/1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/pavle-detailing/2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/pavle-detailing/3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/plazma/1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/plazma/2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/plazma/3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/plazma/4.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/prima/1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/rossen-kozmetika/1.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/rossen-kozmetika/2.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/rossen-kozmetika/3.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/rossen-kozmetika/4.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/work/design-work/smoki/1.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://design.velimirpaleksic.com/portfolio/milka-monopoly</loc>
+    <lastmod>2026-06-05</lastmod>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/milka-1-1080-F_NSyqoq.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://design.velimirpaleksic.com/portfolio/plazma</loc>
+    <lastmod>2026-06-05</lastmod>
+    <image:image>
+      <image:loc>https://design.velimirpaleksic.com/assets/plazma-1-1080-D8Z1yhrX.webp</image:loc>
     </image:image>
   </url>
 </urlset>
